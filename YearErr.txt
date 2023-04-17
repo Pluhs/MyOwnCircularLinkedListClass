@@ -1,0 +1,3 @@
+Book [title="Gunsmoke - A Complete History of The Legendary Broadcast Series", author=Suzanne Barabas & Gabor Barabas, price=85.5, ISBN=9780899504186, genre=MTV, year=2057]
+Book [title="Baseball - Baseball By The Numbers", author=Willie Runquist, price=30.95, ISBN=9780786400065, genre=SSM, year=2095]
+Book [title="Baseball - A Statistical History 1903-1957", author=Dennis Snelling, price=30.95, ISBN=9780786400, genre=SSM, year=2034]

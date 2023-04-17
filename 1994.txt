@@ -1,0 +1,4 @@
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, price=7.95, ISBN=879101490, genre=MRB, year=1994]
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, price=7.95, ISBN=879101490, genre=MRB, year=1994]
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, price=7.95, ISBN=879101490, genre=MRB, year=1994]
+Book [title="Lewis Jerry - Filmography of The Comic", author=James L. Neibaur & Ted Okuda, price=44.95, ISBN=9780899509, genre=MTV, year=1994]
